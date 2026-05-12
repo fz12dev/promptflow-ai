@@ -1,16 +1,90 @@
-# React + Vite
+# 🚀 PromptFlow AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium AI SaaS website built using Antigravity website builder and customized with React, Tailwind CSS, Framer Motion, and LocalStorage. The project features a modern startup-style landing page, an interactive AI text generator demo, a dashboard preview, pricing plans, and responsive glassmorphism design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
+https://your-vercel-link.vercel.app
 
-## React Compiler
+## 📂 GitHub Repository
+https://github.com/fz12dev/promptflow-ai
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎨 Modern SaaS Landing Page
+- 🤖 AI Text Generator Demo
+- 📋 Copy to Clipboard
+- 🕘 Prompt History with LocalStorage
+- 📊 Dashboard Preview Section
+- 💳 Pricing Plans
+- 📱 Fully Responsive Design
+- ✨ Framer Motion Animations
+- 🌙 Glassmorphism UI
+
+---
+
+## 🛠️ Tech Stack
+
+- Antigravity Website Builder
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
+- React Icons
+- LocalStorage API
+
+---
+
+## 📁 Folder Structure
+
+```bash
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── Features.jsx
+│   ├── AIToolDemo.jsx
+│   ├── DashboardPreview.jsx
+│   ├── Pricing.jsx
+│   └── Footer.jsx
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/fz12dev/promptflow-ai.git
+cd promptflow-ai
+npm install
+npm run dev
+```
+
+---
+
+## 🚀 Deployment
+
+This project is deployed using Vercel.
+
+```bash
+npm run build
+```
+
+---
+
+## 👨‍💻 Author
+
+**Mohammed Faiz**
+
+- GitHub: https://github.com/fz12dev
+- Email: mfaiz06123@gmail.com
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
